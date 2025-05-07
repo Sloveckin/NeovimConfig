@@ -42,6 +42,10 @@ require("lazy").setup({
     { 'L3MON4D3/LuaSnip'},
     { 'rafamadriz/friendly-snippets' },
     { 'saadparwaiz1/cmp_luasnip' },
+    {
+    'nvim-telescope/telescope.nvim', tag = '0.1.8',
+      dependencies = { 'nvim-lua/plenary.nvim' }
+    }
 })
 
 
