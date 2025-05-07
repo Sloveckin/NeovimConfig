@@ -20,7 +20,7 @@ cmp.setup({
         ["<Tab>"] = cmp.mapping(function(fallback)
             if cmp.visible() then
                 cmp.select_next_item()
-            else
+           else
                 fallback()
             end
         end, {"i", "s"}),
