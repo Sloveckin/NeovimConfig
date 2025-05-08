@@ -13,6 +13,12 @@ require("neo-tree").setup({
               require("neo-tree.command").execute({ action = "close" })
             end
         },
-
-    }
+    },
+    filesystem = {
+        filtered_items = {
+            visible = true,
+            hide_dotfiles = false,
+            hide_gitignored = false,
+        },
+    },
 })
