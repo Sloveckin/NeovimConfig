@@ -47,6 +47,7 @@ require("lazy").setup({
       dependencies = { 'nvim-lua/plenary.nvim' }
     },
     { 'Civitasv/cmake-tools.nvim', opts = {} },
+    { 'pocco81/auto-save.nvim' },
 })
 
 
