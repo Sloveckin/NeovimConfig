@@ -48,6 +48,12 @@ require("lazy").setup({
     },
     { 'Civitasv/cmake-tools.nvim', opts = {} },
     { 'pocco81/auto-save.nvim' },
+    {
+        'mrcjkb/rustaceanvim',
+        version = '^6', -- Recommended
+        lazy = false, -- This plugin is already lazy
+    },
+
 })
 
 
