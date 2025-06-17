@@ -53,6 +53,11 @@ require("lazy").setup({
         version = '^6', -- Recommended
         lazy = false, -- This plugin is already lazy
     },
+    {
+        "vhyrro/luarocks.nvim",
+        priority = 1000,
+        config = true
+    }, 
 
 })
 

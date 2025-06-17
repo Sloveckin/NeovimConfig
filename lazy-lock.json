@@ -10,6 +10,7 @@
   "friendly-snippets": { "branch": "main", "commit": "572f5660cf05f8cd8834e096d7b4c921ba18e175" },
   "hop.nvim": { "branch": "master", "commit": "1a1eceafe54b5081eae4cb91c723abd1d450f34b" },
   "lazy.nvim": { "branch": "main", "commit": "6c3bda4aca61a13a9c63f1c1d1b16b9d3be90d7a" },
+  "luarocks.nvim": { "branch": "main", "commit": "1db9093915eb16ba2473cfb8d343ace5ee04130a" },
   "mason.nvim": { "branch": "main", "commit": "fc98833b6da5de5a9c5b1446ac541577059555be" },
   "neo-tree.nvim": { "branch": "v3.x", "commit": "1ef260eb4f54515fe121a2267b477efb054d108a" },
   "nui.nvim": { "branch": "main", "commit": "f535005e6ad1016383f24e39559833759453564e" },
