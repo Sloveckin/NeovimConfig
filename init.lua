@@ -15,6 +15,7 @@ require('plugins.telescope')
 require('plugins.auto-save')
 require('plugins.luarocks')
 require('plugins.hop')
+require('plugins.auto-pairs')
 
 vim.opt.relativenumber = true
 vim.o.tabstop = 4 -- A TAB character looks like 4 spaces

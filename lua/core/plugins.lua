@@ -57,7 +57,14 @@ require("lazy").setup({
         "vhyrro/luarocks.nvim",
         priority = 1000,
         config = true
-    }, 
+    },
+    {
+        'windwp/nvim-autopairs',
+        event = "InsertEnter",
+        config = true
+        -- use opts = {} for passing setup options
+        -- this is equivalent to setup({}) function
+    }
 
 })
 
