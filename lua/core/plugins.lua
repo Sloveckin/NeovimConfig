@@ -64,7 +64,8 @@ require("lazy").setup({
         config = true
         -- use opts = {} for passing setup options
         -- this is equivalent to setup({}) function
-    }
+    },
+    { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
 
 })
 

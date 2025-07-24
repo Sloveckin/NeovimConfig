@@ -8,7 +8,7 @@ require('plugins.neotree')
 require('plugins.treesitter')
 require('plugins.lsp')
 require('plugins.mason')
-require('plugins.theme')
+--require('plugins.theme')
 require('plugins.icons')
 require('plugins.cmp')
 require('plugins.telescope')
@@ -16,6 +16,7 @@ require('plugins.auto-save')
 require('plugins.luarocks')
 require('plugins.hop')
 require('plugins.auto-pairs')
+require('plugins.capuch')
 
 vim.opt.relativenumber = true
 vim.o.tabstop = 4 -- A TAB character looks like 4 spaces

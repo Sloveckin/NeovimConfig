@@ -1,6 +1,7 @@
 {
   "LuaSnip": { "branch": "master", "commit": "d474d67848006fc3fea201c77d408e1ed25123f0" },
   "auto-save.nvim": { "branch": "main", "commit": "979b6c82f60cfa80f4cf437d77446d0ded0addf0" },
+  "catppuccin": { "branch": "main", "commit": "82f3dcedc9acc242d2d4f98abca02e2f10a75248" },
   "cmake-tools.nvim": { "branch": "master", "commit": "1ee065c33ca777c0e03cd7c358010202ee70bb88" },
   "cmp-buffer": { "branch": "main", "commit": "b74fab3656eea9de20a9b8116afa3cfc4ec09657" },
   "cmp-cmdline": { "branch": "main", "commit": "d250c63aa13ead745e3a40f61fdd3470efde3923" },
