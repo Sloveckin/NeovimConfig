@@ -27,7 +27,7 @@ vim.opt.number = true
 
 vim.opt.list = true
 vim.opt.listchars = {
-    space = "·",
+    lead = "·",
     tab = "→ ",
     trail = "•",
 }
